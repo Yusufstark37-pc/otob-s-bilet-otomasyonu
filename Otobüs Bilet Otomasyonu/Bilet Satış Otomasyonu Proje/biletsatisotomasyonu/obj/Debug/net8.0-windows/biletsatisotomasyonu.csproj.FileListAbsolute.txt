@@ -1,0 +1,154 @@
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.exe
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.deps.json
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.runtimeconfig.json
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.pdb
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Form1.resources
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.KayıtFormu.resources
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Properties.Resources.resources
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.AssemblyInfo.cs
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsat.64A31C78.Up2Date
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\refint\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.pdb
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.genruntimeconfig.cache
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\ref\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\biletsatisotomasyonu\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Form2.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.exe
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.deps.json
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.runtimeconfig.json
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.pdb
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Form1.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Form2.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.KayıtFormu.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Properties.Resources.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.AssemblyInfo.cs
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsat.64A31C78.Up2Date
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\refint\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.pdb
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.genruntimeconfig.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\ref\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.exe
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.deps.json
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.runtimeconfig.json
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\biletsatisotomasyonu.pdb
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Form1.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Form2.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.KayıtFormu.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.Properties.Resources.resources
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.AssemblyInfo.cs
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsat.64A31C78.Up2Date
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\refint\biletsatisotomasyonu.dll
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.pdb
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.genruntimeconfig.cache
+C:\Users\burak\Desktop\Görsel Programlama\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\biletsatisotomasyonu\obj\Debug\net8.0-windows\ref\biletsatisotomasyonu.dll
+C:\Users\YUSUF\Desktop\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\Bilet Satış Otomasyonu Proje\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.csproj.AssemblyReference.cache
+C:\Users\YUSUF\Desktop\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\Bilet Satış Otomasyonu Proje\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.dll
+C:\Users\YUSUF\Desktop\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\Bilet Satış Otomasyonu Proje\biletsatisotomasyonu\obj\Debug\net8.0-windows\refint\biletsatisotomasyonu.dll
+C:\Users\YUSUF\Desktop\235911050-Burak TARI-235911043-Mirac KAR-Görsel Programlama- Otobüs Bileti\Bilet Satış Otomasyonu Proje\biletsatisotomasyonu\obj\Debug\net8.0-windows\biletsatisotomasyonu.pdb
